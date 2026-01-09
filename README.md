@@ -1,2 +1,1 @@
-# LitVerse
-A social media for book worms, a discussion forum plus library
+Tools for email, coming soon
